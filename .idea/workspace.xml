@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dcea3c5-15c8-4333-9c54-0e0c8a620925" name="Changes" comment="Hello world задание">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Основной.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Основной.java" afterDir="false" />
-    </list>
+    <list default="true" id="5dcea3c5-15c8-4333-9c54-0e0c8a620925" name="Changes" comment="make third branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,8 +46,8 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="Основной" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Основной" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Aoascar_lesson1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,7 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Основной" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -84,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656501238998</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="make third branch">
+      <created>1656504980058</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656504980058</updated>
+    </task>
+    <task id="LOCAL-00004" summary="make third branch">
+      <created>1656505258183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656505258183</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init commit" />
     <MESSAGE value="Hello world задание" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello world задание" />
+    <MESSAGE value="make third branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="make third branch" />
   </component>
 </project>
